@@ -42,6 +42,14 @@ It highlights projects, skills, and contact information with a modern and respon
   🔗 [Repository](https://github.com/attiq-ur-rehman4855/blog-website)  
   🌐 [Live Demo](https://attiq-ur-rehman4855.github.io/blog-website/)  
 
+- **Animated Clock**  
+  🔗 [Repository](https://github.com/attiq-ur-rehman4855/animated-clock)  
+  🌐 [Live Demo](https://attiq-ur-rehman4855.github.io/animated-clock/)  
+
+- **Food Website**  
+  🔗 [Repository](https://github.com/attiq-ur-rehman4855/food-store-website)  
+  🌐 [Live Demo](https://attiq-ur-rehman4855.github.io/food-store-website/)  
+
 
 ## 🚀 Features
 - Responsive design for all devices  
@@ -61,6 +69,8 @@ portfolio-website/
 │── ResturantSite/
 │── TuneSite/
 │── youtubeClone/
+│── AnimatedClock/
+│── Foodwebsite/
 │── index.html
 │── style.css
 │── image/
@@ -74,6 +84,8 @@ portfolio-website/
 │ ├── project7.png
 │ ├── project8.png
 │ └── project9.png
+│ └── project10.png
+│ └── project11.png
 
 
 ## 🛠️ Tech Stack 
